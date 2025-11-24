@@ -6,6 +6,6 @@
 </p>
 -->
   
-### Ungraduate of Informatics Engineering
+### Graduate of Informatics Engineering
 - 🔭 I’m currently working on my personal projects, you can check it [here](http://taufiq-ridhoi.my.id)!
 <!-- - 📫 You can reach me at my LinkedIn [@alftridev](https://www.linkedin.com/in/alftridev/) -->
